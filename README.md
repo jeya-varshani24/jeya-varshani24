@@ -171,7 +171,7 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHc3YzE3a2lqN2x0aDV3aGx1OW
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/jeya-varshani24/jeya-varshani24/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/jeya-varshani24/jeya-varshani24/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
