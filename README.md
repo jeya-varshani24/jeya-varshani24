@@ -1,11 +1,13 @@
-<!-- TOP BANNER -->
+<!-- ======================= HEADER ======================= -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Jeya%20Varshani&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Machine%20Learning%20Engineer%20|%20AI%20Developer&descAlignY=60"/>
 </p>
 
-<!-- ANIMATED TYPING -->
+<!-- ======================= TYPING ANIMATION ======================= -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Jeya+Varshani;Machine+Learning+Engineer;AI+%7C+NLP+%7C+Data+Analytics;Python+Developer;Future+Tech+Innovator+%F0%9F%9A%80"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Jeya+Varshani;Machine+Learning+Engineer;AI+%7C+NLP+%7C+Data+Analytics;Python+Developer;Future+Tech+Innovator+🚀"/>
 </p>
 
 ---
@@ -13,9 +15,11 @@
 # 💫 About Me
 
 <img align="right" alt="coding" width="350"
-src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHc3YzE3a2lqN2x0aDV3aGx1OWR2ZmM2aTR4b2h6bTBiM3lnZ3M4eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 🎓 3rd Year Computer Science Engineering Student  
+
+🏫 PSNA College of Engineering and Technology  
 
 🤖 Passionate about:
 - Artificial Intelligence
@@ -25,6 +29,7 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHc3YzE3a2lqN2x0aDV3aGx1OW
 - UI/UX Designing
 
 🏆 Smart India Hackathon Participant  
+
 🏅 E-Yuva Innovation Grant Contributor  
 
 💡 Currently Learning:
@@ -41,7 +46,7 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHc3YzE3a2lqN2x0aDV3aGx1OW
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/jeya-varshani-jeyaraj-b51a93296?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+<a href="YOUR_LINKEDIN_LINK">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -92,7 +97,7 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHc3YzE3a2lqN2x0aDV3aGx1OW
 
 ✔️ NLP-based intelligent classifier  
 ✔️ Achieved 92% accuracy  
-✔️ Built using Scikit-learn & Python
+✔️ Built using Scikit-learn & Python  
 
 </td>
 
@@ -102,7 +107,7 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHc3YzE3a2lqN2x0aDV3aGx1OW
 
 ✔️ Smart wearable healthcare system  
 ✔️ Detects gait abnormalities  
-✔️ Real-time sensor analytics
+✔️ Real-time sensor analytics  
 
 </td>
 </tr>
@@ -114,7 +119,7 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHc3YzE3a2lqN2x0aDV3aGx1OW
 
 ✔️ Linear Regression ML Model  
 ✔️ Predicts property prices  
-✔️ Data visualization included
+✔️ Data visualization included  
 
 </td>
 
@@ -124,7 +129,7 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHc3YzE3a2lqN2x0aDV3aGx1OW
 
 ✔️ Smart India Hackathon Project  
 ✔️ Reduced water usage by 70%  
-✔️ Sustainable sanitation solution
+✔️ Sustainable sanitation solution  
 
 </td>
 </tr>
@@ -136,9 +141,11 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHc3YzE3a2lqN2x0aDV3aGx1OW
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeya-varshani24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=jeya-varshani24&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeya-varshani24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeya-varshani24&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -147,7 +154,9 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHc3YzE3a2lqN2x0aDV3aGx1OW
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jeya-varshani24&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+<img src="https://streak-stats.demolab.com?user=jeya-varshani24&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -155,7 +164,9 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHc3YzE3a2lqN2x0aDV3aGx1OW
 # 🏆 GitHub Achievements
 
 <p align="center">
+
 <img src="https://github-profile-trophy.vercel.app/?username=jeya-varshani24&theme=algolia&no-frame=true&row=1&column=7"/>
+
 </p>
 
 ---
@@ -163,7 +174,9 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHc3YzE3a2lqN2x0aDV3aGx1OW
 # 📈 Contribution Graph
 
 <p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeya-varshani24&theme=react-dark&hide_border=true"/>
+
 </p>
 
 ---
@@ -179,7 +192,9 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHc3YzE3a2lqN2x0aDV3aGx1OW
 # 👀 Profile Views
 
 <p align="center">
+
 <img src="https://komarev.com/ghpvc/?username=jeya-varshani24&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+
 </p>
 
 ---
@@ -191,4 +206,3 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHc3YzE3a2lqN2x0aDV3aGx1OW
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </p>
-
