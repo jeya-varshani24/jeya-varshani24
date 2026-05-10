@@ -136,9 +136,9 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHc3YzE3a2lqN2x0aDV3aGx1OW
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeya-varshani24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeya-varshani24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </p>
 
@@ -147,7 +147,7 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHc3YzE3a2lqN2x0aDV3aGx1OW
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jeya-varshani24&theme=tokyonight&hide_border=true&background=0D1117"/>
 </p>
 
 ---
@@ -155,7 +155,7 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHc3YzE3a2lqN2x0aDV3aGx1OW
 # 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=jeya-varshani24&theme=algolia&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
@@ -163,7 +163,7 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHc3YzE3a2lqN2x0aDV3aGx1OW
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeya-varshani24&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
@@ -171,7 +171,7 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHc3YzE3a2lqN2x0aDV3aGx1OW
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/jeya-varshani24/jeya-varshani24/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
@@ -179,7 +179,7 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHc3YzE3a2lqN2x0aDV3aGx1OW
 # 👀 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=jeya-varshani24&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
 </p>
 
 ---
