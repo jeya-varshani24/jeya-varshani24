@@ -41,7 +41,7 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHc3YzE3a2lqN2x0aDV3aGx1OW
 
 <p align="center">
 
-<a href="https://linkedin.com/in/jeya-varshani-b51a93296">
+<a href="https://www.linkedin.com/in/jeya-varshani-jeyaraj-b51a93296?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
