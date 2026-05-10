@@ -41,11 +41,11 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHc3YzE3a2lqN2x0aDV3aGx1OW
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://linkedin.com/in/jeya-varshani-b51a93296">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_GITHUB_LINK">
+<a href="https://github.com/jeya-varshani24">
 <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
