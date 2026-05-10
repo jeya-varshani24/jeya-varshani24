@@ -137,15 +137,16 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ---
 
+
 # 📊 GitHub Analytics
 
 <p align="center">
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=jeya-varshani24&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=jeya-varshani24&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeya-varshani24&layout=compact&theme=tokyonight&hide_border=true"/>
+src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jeya-varshani24&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
