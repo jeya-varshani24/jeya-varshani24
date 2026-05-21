@@ -155,8 +155,8 @@ src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=j
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=jeya-varshani24&theme=tokyonight&hide_border=true&background=0D1117"/>
+  
+<img src="https://streak-stats.demolab.com?user=jeya-varshani24&theme=highcontrast&hide_border=true&border_radius=10"/>
 
 </p>
 
