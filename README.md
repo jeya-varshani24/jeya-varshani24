@@ -46,7 +46,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://www.linkedin.com/in/jeya-varshani-jeyaraj-b51a93296">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -156,7 +156,7 @@ src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=j
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=jeya-varshani24&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=jeya-varshani24&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 </p>
 
