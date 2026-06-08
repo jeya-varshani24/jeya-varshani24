@@ -162,16 +162,6 @@ src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=j
 
 ---
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jeya-varshani24&theme=algolia&no-frame=true&row=2&column=4"/>
-
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
