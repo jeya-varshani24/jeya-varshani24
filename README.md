@@ -170,7 +170,7 @@ src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=j
 ---
 # 📜 Certifications
 
-🏅 NPTEL Programming in Java (Elite)
+🏅 NPTEL Programming in Java
 
 🏅 Google Cloud – Introduction to LLM
 
