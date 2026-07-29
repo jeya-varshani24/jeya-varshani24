@@ -17,7 +17,7 @@
 <img align="right" alt="coding" width="350"
 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-🎓 3rd Year Computer Science Engineering Student  
+🎓 Final Year Computer Science Engineering Student  
 
 🏫 PSNA College of Engineering and Technology  
 
