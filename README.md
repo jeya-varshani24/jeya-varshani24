@@ -151,17 +151,6 @@ src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=j
 </p>
 
 ---
-
-# 🔥 GitHub Streak
-
-<p align="center">
-  
-<img src="https://streak-stats.demolab.com?user=jeya-varshani24&theme=highcontrast&hide_border=true&border_radius=10"/>
-
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
@@ -179,7 +168,18 @@ src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=j
 </p>
 
 ---
+# 📜 Certifications
 
+🏅 NPTEL Programming in Java (Elite)
+
+🏅 Google Cloud – Introduction to LLM
+
+🏅 AWS Cloud Quest
+
+🏅 MongoDB Professional Basics
+
+
+---
 # 👀 Profile Views
 
 <p align="center">
